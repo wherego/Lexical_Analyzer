@@ -24,7 +24,7 @@ c++写的一个简单词法分析器
 ```
 
 - 待分析的c语言子集的语法
-````
+
 
 关键字：main if then while do static int double struct break else long switch case typedef char return const float short continue for void default sizeof do
 
